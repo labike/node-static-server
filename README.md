@@ -1,10 +1,16 @@
 # node-static-server
 node.js build a static server
 
-#### Use
+### Use
+
+> npm install node-fs-server
+
+or
 
 ```
-git clone <repo>
+fork <this repo>
+
+git clone <this repo>
 
 npm install
 
